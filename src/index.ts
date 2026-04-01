@@ -474,7 +474,7 @@ async function setupViewer(){
         }
     }
 
-    // GEM MENU
+    // GEM MENUs
     configGem.addEventListener('click', () => {
         gemMenu.classList.add('show')
         materialsMenu.classList.remove('show')
